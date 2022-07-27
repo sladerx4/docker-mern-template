@@ -1,0 +1,5 @@
+client/node_modules
+client/.dockerignore
+server/node_modules
+server/.dockerignore
+.vscode
